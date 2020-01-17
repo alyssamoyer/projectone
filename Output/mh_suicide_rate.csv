@@ -1,0 +1,251 @@
+,state,RATE
+0,Alabama,16.6
+1,Alaska,27.0
+2,Arizona,18.2
+3,Arkansas,20.8
+4,California,10.5
+5,Colorado,20.3
+6,Connecticut,10.5
+7,Delaware,11.6
+8,Florida,14.0
+9,Georgia,13.6
+10,Hawaii,15.2
+11,Idaho,23.2
+12,Illinois,11.2
+13,Indiana,16.3
+14,Iowa,15.0
+15,Kansas,19.1
+16,Kentucky,16.9
+17,Louisiana,15.2
+18,Maine,18.9
+19,Maryland,9.8
+20,Massachusetts,9.5
+21,Michigan,14.1
+22,Minnesota,13.8
+23,Mississippi,15.0
+24,Missouri,18.5
+25,Montana,28.9
+26,Nebraska,14.7
+27,Nevada,20.3
+28,New Hampshire,18.9
+29,New Jersey,8.3
+30,New Mexico,23.3
+31,New York,8.1
+32,North Carolina,14.3
+33,North Dakota,20.1
+34,Ohio,14.8
+35,Oklahoma,19.1
+36,Oregon,19.0
+37,Pennsylvania,15.0
+38,Rhode Island,11.8
+39,South Carolina,16.3
+40,South Dakota,22.5
+41,Tennessee,16.8
+42,Texas,13.4
+43,Utah,22.7
+44,Vermont,18.3
+45,Virginia,13.4
+46,Washington,16.9
+47,West Virginia,21.1
+48,Wisconsin,15.4
+49,Wyoming,26.9
+50,Alabama,15.7
+51,Alaska,25.8
+52,Arizona,17.7
+53,Arkansas,18.2
+54,California,10.5
+55,Colorado,20.5
+56,Connecticut,10.1
+57,Delaware,11.5
+58,Florida,14.0
+59,Georgia,13.3
+60,Hawaii,12.1
+61,Idaho,21.4
+62,Illinois,10.7
+63,Indiana,15.4
+64,Iowa,14.6
+65,Kansas,17.9
+66,Kentucky,16.8
+67,Louisiana,14.2
+68,Maine,15.9
+69,Maryland,9.4
+70,Massachusetts,8.8
+71,Michigan,13.3
+72,Minnesota,13.2
+73,Mississippi,12.7
+74,Missouri,18.4
+75,Montana,25.9
+76,Nebraska,13.1
+77,Nevada,21.4
+78,New Hampshire,17.2
+79,New Jersey,7.2
+80,New Mexico,22.5
+81,New York,8.1
+82,North Carolina,13.0
+83,North Dakota,19.0
+84,Ohio,14.2
+85,Oklahoma,21.0
+86,Oregon,17.8
+87,Pennsylvania,14.7
+88,Rhode Island,11.2
+89,South Carolina,15.7
+90,South Dakota,20.2
+91,Tennessee,16.3
+92,Texas,12.6
+93,Utah,21.8
+94,Vermont,17.3
+95,Virginia,13.2
+96,Washington,14.9
+97,West Virginia,19.3
+98,Wisconsin,14.7
+99,Wyoming,25.2
+100,Alabama,14.9
+101,Alaska,26.9
+102,Arizona,18.2
+103,Arkansas,19.1
+104,California,10.3
+105,Colorado,19.5
+106,Connecticut,9.9
+107,Delaware,12.6
+108,Florida,14.4
+109,Georgia,12.7
+110,Hawaii,13.5
+111,Idaho,22.1
+112,Illinois,10.3
+113,Indiana,14.4
+114,Iowa,13.9
+115,Kansas,16.3
+116,Kentucky,17.1
+117,Louisiana,15.2
+118,Maine,16.0
+119,Maryland,8.8
+120,Massachusetts,8.9
+121,Michigan,13.8
+122,Minnesota,13.2
+123,Mississippi,14.0
+124,Missouri,17.1
+125,Montana,25.3
+126,Nebraska,11.7
+127,Nevada,18.4
+128,New Hampshire,16.5
+129,New Jersey,8.3
+130,New Mexico,23.7
+131,New York,7.8
+132,North Carolina,13.4
+133,North Dakota,17.5
+134,Ohio,13.9
+135,Oklahoma,20.3
+136,Oregon,17.8
+137,Pennsylvania,14.0
+138,Rhode Island,11.2
+139,South Carolina,14.8
+140,South Dakota,20.4
+141,Tennessee,15.7
+142,Texas,12.5
+143,Utah,22.4
+144,Vermont,14.8
+145,Virginia,12.7
+146,Washington,15.4
+147,West Virginia,17.4
+148,Wisconsin,14.7
+149,Wyoming,28.0
+150,Alabama,14.5
+151,Alaska,22.1
+152,Arizona,18.0
+153,Arkansas,17.3
+154,California,10.5
+155,Colorado,19.9
+156,Connecticut,9.8
+157,Delaware,13.2
+158,Florida,13.9
+159,Georgia,12.6
+160,Hawaii,13.8
+161,Idaho,20.0
+162,Illinois,10.5
+163,Indiana,14.3
+164,Iowa,12.9
+165,Kansas,15.7
+166,Kentucky,15.9
+167,Louisiana,14.3
+168,Maine,15.7
+169,Maryland,9.8
+170,Massachusetts,8.2
+171,Michigan,13.3
+172,Minnesota,12.2
+173,Mississippi,12.5
+174,Missouri,16.3
+175,Montana,23.9
+176,Nebraska,13.4
+177,Nevada,19.6
+178,New Hampshire,17.8
+179,New Jersey,8.3
+180,New Mexico,21.0
+181,New York,8.1
+182,North Carolina,13.0
+183,North Dakota,17.8
+184,Ohio,12.6
+185,Oklahoma,19.1
+186,Oregon,18.6
+187,Pennsylvania,13.3
+188,Rhode Island,10.1
+189,South Carolina,15.2
+190,South Dakota,17.1
+191,Tennessee,14.1
+192,Texas,12.2
+193,Utah,20.5
+194,Vermont,18.7
+195,Virginia,12.9
+196,Washington,15.2
+197,West Virginia,18.1
+198,Wisconsin,13.1
+199,Wyoming,20.6
+200,Alabama,11.5
+201,Alaska,19.9
+202,Arizona,16.4
+203,Arkansas,14.3
+204,California,9.1
+205,Colorado,17.2
+206,Connecticut,8.1
+207,Delaware,9.7
+208,Florida,12.5
+209,Georgia,10.6
+210,Hawaii,8.2
+211,Idaho,16.5
+212,Illinois,8.6
+213,Indiana,11.8
+214,Iowa,11.2
+215,Kansas,13.3
+216,Kentucky,13.4
+217,Louisiana,11.0
+218,Maine,12.4
+219,Maryland,8.4
+220,Massachusetts,7.2
+221,Michigan,11.0
+222,Minnesota,10.5
+223,Mississippi,12.7
+224,Missouri,12.5
+225,Montana,21.7
+226,Nebraska,10.9
+227,Nevada,19.8
+228,New Hampshire,12.0
+229,New Jersey,6.1
+230,New Mexico,17.8
+231,New York,6.0
+232,North Carolina,11.5
+233,North Dakota,13.7
+234,Ohio,11.5
+235,Oklahoma,14.8
+236,Oregon,14.9
+237,Pennsylvania,11.1
+238,Rhode Island,6.3
+239,South Carolina,11.8
+240,South Dakota,15.4
+241,Tennessee,14.0
+242,Texas,10.9
+243,Utah,15.4
+244,Vermont,12.5
+245,Virginia,11.2
+246,Washington,12.8
+247,West Virginia,13.2
+248,Wisconsin,11.6
+249,Wyoming,17.3
